@@ -8,7 +8,6 @@
 ## Запуск проекта
 ```bash
 git clone https://github.com/kvryng/labs.git
-cd student-labs
-# переход в ветку project
+cd labs
 git checkout project
 python main.py
